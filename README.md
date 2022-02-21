@@ -20,3 +20,9 @@ Posion: is a script capable of hosts scanning, spoofing MAC, SYNflood attack and
 | ARGUMENT | DESCRIPTION |
 | ------------- | ------------- |
 | -syn / --synflood | Synflood Attack  |
+
+
+### FTP Sniff
+| ARGUMENT | DESCRIPTION |
+| ------------- | ------------- |
+| -i / --interface | FTP sniff  |
