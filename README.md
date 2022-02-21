@@ -29,3 +29,16 @@ Posion: is a script capable of hosts scanning, spoofing MAC, SYNflood attack and
 | ARGUMENT | DESCRIPTION |
 | ------------- | ------------- |
 | -i / --interface | FTP sniff  |
+
+
+## Instalación / Installation
+
+```
+> git clone https://github.com/R3LI4NT/Poison
+
+> cd Poison
+
+> pip3 install scapy && pip3 install argparse
+
+> python3 poison.py
+```
