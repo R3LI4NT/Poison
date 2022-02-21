@@ -5,27 +5,27 @@ Posion: is a script capable of hosts scanning, spoofing MAC, SYNflood attack and
 ![poison](https://user-images.githubusercontent.com/75953873/154948394-81859657-d138-4cba-ac10-2914aa007526.png)
 
 
-### Scan Hosts
+### Scan Hosts commands
 | ARGUMENT | DESCRIPTION |
 | ------------- | ------------- |
 | -m / --menu | Option menu  |
 | -r / --range  | Scan hosts  |
 
 
-### Spoofing
+### Spoofing commands
 | ARGUMENT | DESCRIPTION |
 | ------------- | ------------- |
 | -t / --target | Target to spoof  |
 | -s / --spoofed  | IP router  |
 
 
-### Synflood
+### Synflood commands
 | ARGUMENT | DESCRIPTION |
 | ------------- | ------------- |
 | -syn / --synflood | Synflood Attack  |
 
 
-### FTP Sniff
+### FTP Sniff commands
 | ARGUMENT | DESCRIPTION |
 | ------------- | ------------- |
 | -i / --interface | FTP sniff  |
