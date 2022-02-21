@@ -57,7 +57,7 @@ Posion: is a script capable of hosts scanning, spoofing MAC, SYNflood attack and
 
 
 #### SYNflood Attack:
-<a href="https://asciinema.org/a/hFdss4P34mmJ8jEBwakMg3sE5" target="_blank"><img src="https://asciinema.org/a/hFdss4P34mmJ8jEBwakMg3sE5.svg" /></a>
+[![asciicast](https://asciinema.org/a/hFdss4P34mmJ8jEBwakMg3sE5.svg)](https://asciinema.org/a/hFdss4P34mmJ8jEBwakMg3sE5)
 
 
 #### Error:
