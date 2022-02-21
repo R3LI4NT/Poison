@@ -1,6 +1,6 @@
 # Poison
 
-Posion: is a script capable of hosts scanning, spoofing MAC, SYNflood attack and sniffer FTP.
+Posion: is a script capable of hosts scanning, spoofing MAC, SYNflood attack and FTP sniffer.
 
 ![poison](https://user-images.githubusercontent.com/75953873/154948394-81859657-d138-4cba-ac10-2914aa007526.png)
 
