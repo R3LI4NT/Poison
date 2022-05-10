@@ -64,7 +64,7 @@ def synflood(target):
 			send(packet,verbose=False)
 
 			packet_count = packet_count + 1
-			print("\033[0;32mPACKET:\033[0m " + str(packet_count) + "     \t\033[0;32mSRC_IP:\033[0m " + str(src_ip) + "\t\t\033[0;32mSRC_PORT:\033[0m " + str(src_port)),sys.stdout.flush()
+			print("\033[0;32mPACKET:\033[0m " + str(packet_count) + "\t\033[0;32mSRC_IP:\033[0m " + str(src_ip) + "\t\t\033[0;32mSRC_PORT:\033[0m " + str(src_port)),sys.stdout.flush()
 
 	except KeyboardInterrupt:
 		exit(0)
