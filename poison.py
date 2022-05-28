@@ -30,7 +30,7 @@ def IPscan(ip):
 	
 	for n in res:
 		print("-" * 48)
-		print("[+] \033[0;32mHOST:\033[0m {}  ▏ \033[0;32mMAC:\033[0m {}".format(n[1].psrc,n[1].hwsrc))	 
+		print("[+] \033[0;32mHOST:\033[0m {}\t| \033[0;32mMAC:\033[0m {}".format(n[1].psrc,n[1].hwsrc))	 	 
 
 
 def getMAC(ip):
